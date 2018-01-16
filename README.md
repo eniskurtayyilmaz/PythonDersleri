@@ -1,2 +1,2 @@
 # PythonDersleri
-www.eniskurtayyilmaz.com adresinde videolu anlatılan Python derslerine ait kod örnekleridir.
+www.eniskurtayyilmaz.com ve www.youtube.com/user/eniskurtay adresinde videolu anlatılan Python derslerine ait kod örnekleridir.
